@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+/* Reset CSS */
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    background-color: #000000;
+}
+
+main {
+    width: 1140px;
+    margin: auto;
+}
+
+.conteudo {
+    width: 1140px;
+    margin: auto;
+}
+
+.logo {
+    width: 300px;
+    margin: 20px;
+}
+
+h2 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: #FF0101;
+    font-size: 30px;
+    font-family: 'Roboto';
+    text-align: center;
+}
+
+.grupo_inicial {
+    /* Para colocar o texto lado a lado com a imagem */
+    display: flex;
+
+}
+
+.texto_inicial {
+    width: 500px;    
+    margin: auto;
+    text-align: right;
+}
+
+.texto_final {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+footer {
+    background-color: #FF0101;
+    text-align: center;
+    color: #FFFFFF;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+footer p {
+    margin-bottom: 20px;
+}

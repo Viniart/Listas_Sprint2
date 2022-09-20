@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #F0F3F3;
+    width: 100%;
+}
+
+main {
+    width: 1140px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+h1,
+h2,
+h3,
+p,
+a,
+label {
+    font-family: 'Roboto';
+    text-decoration: none;
+    color: black;
+}
+
+input {
+    width: 420px;
+    height: 38px;
+}
+
+.inputs{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.inputs div {
+    margin-top: 30px;
+}
+
+.inputs input {
+    margin-top: 5px;
+}
+
+.esqueci_senha {
+    width: 424px;
+    margin-top: 30px;
+}
+
+.card {
+    width: 538px;
+    height: 755px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.botao {
+    background-color: #8458FF;
+    color: white;
+    width: 80px;
+    height: 39px;
+    border-radius: 5px;
+    border-style: none;
+    margin-top: 15px;
+}
+
+.botao_cadastrar {
+    background-color: #8458FF;
+    color: white;
+    width: 109px;
+    height: 39px;
+    border-radius: 5px;
+    border-style: none;
+    margin-top: 15px;
+}
+
+footer {
+    background-color: #F6511D;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+}
+
+.titulo_footer {
+    color: white;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.linha {
+    width: 4px;
+    height: 75%;
+    margin-right: 30px;
+    background-color: white;
+}
+
+.footer_texto {
+    display: flex;
+    flex-direction: column;
+}
+
+.contato_texto {
+    color: white;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,20 @@
+body{
+    width: 1140px;
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    text-transform: uppercase;
+    font-size: 48px;
+}
+
+h2{
+    color: #2D8067;
+    text-align: center;
+    font-size: 30px;
+}
+
+.texto_direita{
+    text-align: right;
+}

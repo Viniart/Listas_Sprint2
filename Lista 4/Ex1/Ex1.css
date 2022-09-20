@@ -1,0 +1,17 @@
+body{
+    width: 1140px;
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    font-size: 48px;
+    color: #000000;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+h2{
+    font-size: 30px;
+    color: #FC3003;
+}

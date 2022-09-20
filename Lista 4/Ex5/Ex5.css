@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Rouge+Script&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Kranky&display=swap');
+
+body {
+    width: 1200px;
+    margin: auto;
+    text-align: right;
+}
+
+.title1 {
+    font-family: 'Rouge Script';
+    font-size: 96px;
+    color: #a38314;
+}
+
+.title2 {
+    font-family: 'Kranky';
+    font-size: 36px;
+    text-align: center;
+}
+
+.text1 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+    color: #F00A0A;
+    text-align: center;
+}
+
+.title3 {
+    font-family: 'Kranky';
+    font-size: 36px;
+    color: #1B137B;
+}
+
+.text2 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+    color: #1B137B;
+}
+
+.title4 {
+    font-family: 'Kranky';
+    font-size: 36px;
+    text-align: left;
+    color: #0B6B2C;
+}
+
+.text3 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+    text-align: left;
+    color: #0B6B2C;
+}
+
+.title5 {
+    font-family: 'Kranky';
+    font-size: 36px;
+    text-align: justify;
+    color: #000;
+}
+
+.text4 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+    text-align: justify;
+    color: #000;
+}
